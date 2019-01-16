@@ -1,0 +1,19 @@
+body {
+    color: rgb(65, 92, 114);
+    background-color: antiquewhite
+}
+h1 {
+    color: midnightblue;
+    border: 2px black;
+}
+h2{
+    color: midnightblue
+}
+header {
+    font-family: sans-serif;
+    
+}
+.holder-type {
+    color: orangered;
+    margin-top: 10px;
+}
